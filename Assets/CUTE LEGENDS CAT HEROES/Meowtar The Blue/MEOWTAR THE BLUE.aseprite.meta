@@ -1,0 +1,2880 @@
+fileFormatVersion: 2
+guid: 118c7cb7c57d7df46823dae62e95fd22
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: MEOWTAR THE BLUE_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 160
+      height: 96
+    spriteID: 0fca245680551824c83dbd1882b60436
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: MEOWTAR THE BLUE_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 108
+      width: 160
+      height: 96
+    spriteID: ec3d0ad11d109d64bb2f53bf0bef151d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 108}
+  - name: MEOWTAR THE BLUE_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 212
+      width: 160
+      height: 96
+    spriteID: 46985cc8a80026940b67c1c822cbfa0c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 212}
+  - name: MEOWTAR THE BLUE_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 316
+      width: 160
+      height: 96
+    spriteID: 54204a1e46003064db17509555547969
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 316}
+  - name: MEOWTAR THE BLUE_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 420
+      width: 160
+      height: 96
+    spriteID: 1fd080d94f948be48928f4b82da182a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 420}
+  - name: MEOWTAR THE BLUE_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 524
+      width: 160
+      height: 96
+    spriteID: 7db9de0df614b904e822d1f3fd55f98d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 524}
+  - name: MEOWTAR THE BLUE_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 628
+      width: 160
+      height: 96
+    spriteID: 13eb2962179ea564eb9b0db0ec485d15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 628}
+  - name: MEOWTAR THE BLUE_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 732
+      width: 160
+      height: 96
+    spriteID: 87a6158d37a13f34caa4eb2fc162435e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 732}
+  - name: MEOWTAR THE BLUE_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 836
+      width: 160
+      height: 96
+    spriteID: 1557034ef2f2d65448a4f3c1b5b86649
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 836}
+  - name: MEOWTAR THE BLUE_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 940
+      width: 160
+      height: 96
+    spriteID: 9123f7a45e6170c4ea11fe8733af2d92
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 940}
+  - name: MEOWTAR THE BLUE_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1044
+      width: 160
+      height: 96
+    spriteID: 8b85efcc36513d34c81c731e20dbeb47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1044}
+  - name: MEOWTAR THE BLUE_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1148
+      width: 160
+      height: 96
+    spriteID: 4030e90400ab0d645b85edba5c40bc07
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1148}
+  - name: MEOWTAR THE BLUE_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1252
+      width: 160
+      height: 96
+    spriteID: 76a1b2a5a0e425c479209fc122038a9f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1252}
+  - name: MEOWTAR THE BLUE_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1356
+      width: 160
+      height: 96
+    spriteID: 0a83035072d6d634c8adf4bf88015395
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1356}
+  - name: MEOWTAR THE BLUE_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1460
+      width: 160
+      height: 96
+    spriteID: 0ea755a91fd24714ca3c634456d2bf85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1460}
+  - name: MEOWTAR THE BLUE_Frame_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1564
+      width: 160
+      height: 96
+    spriteID: 8dbb0290d8ff74c4a94ed5eb219fabe6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1564}
+  - name: MEOWTAR THE BLUE_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1668
+      width: 160
+      height: 96
+    spriteID: 1f383f147b7a03b4882c222ffd619e22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1668}
+  - name: MEOWTAR THE BLUE_Frame_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1772
+      width: 160
+      height: 96
+    spriteID: 10ed6306d4f04e94b91914a08cf0730e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1772}
+  - name: MEOWTAR THE BLUE_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1876
+      width: 160
+      height: 96
+    spriteID: 74be0fde2c7bf8140ac605a6c28ff98e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1876}
+  - name: MEOWTAR THE BLUE_Frame_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 4
+      width: 160
+      height: 96
+    spriteID: f89ce5775c9bacc4f990efac772c65cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 4}
+  - name: MEOWTAR THE BLUE_Frame_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 108
+      width: 160
+      height: 96
+    spriteID: 51816a8bfff6eb5449c3702ef6a66cac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 108}
+  - name: MEOWTAR THE BLUE_Frame_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 212
+      width: 160
+      height: 96
+    spriteID: 3edfafdde9cf7714fa9c5a8c82272191
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 212}
+  - name: MEOWTAR THE BLUE_Frame_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 316
+      width: 160
+      height: 96
+    spriteID: 144a49f6bcbd3ce488eb3627069583d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 316}
+  - name: MEOWTAR THE BLUE_Frame_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 420
+      width: 160
+      height: 96
+    spriteID: f0441d7b7a534ca408b454970665dbab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 420}
+  - name: MEOWTAR THE BLUE_Frame_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 524
+      width: 160
+      height: 96
+    spriteID: e9756851d9c78ee4cbb4e99f6030f0f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 524}
+  - name: MEOWTAR THE BLUE_Frame_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 628
+      width: 160
+      height: 96
+    spriteID: 3408f0a5098bec84c8880dfa427070cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 628}
+  - name: MEOWTAR THE BLUE_Frame_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 732
+      width: 160
+      height: 96
+    spriteID: 3c0cd5725b2b1d443af31595b72b057d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 732}
+  - name: MEOWTAR THE BLUE_Frame_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 836
+      width: 160
+      height: 96
+    spriteID: 70cafbdbaa91ee54784e22d849694e15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 836}
+  - name: MEOWTAR THE BLUE_Frame_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 940
+      width: 160
+      height: 96
+    spriteID: 864d15425ddf73b4b9fc863425f5df3b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 940}
+  - name: MEOWTAR THE BLUE_Frame_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 1044
+      width: 160
+      height: 96
+    spriteID: 06195c014e3dbc3488d74d3dedb5a402
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 1044}
+  - name: MEOWTAR THE BLUE_Frame_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 1148
+      width: 160
+      height: 96
+    spriteID: 7c091dd97e4c4694b8eb46dc485f495d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 1148}
+  - name: MEOWTAR THE BLUE_Frame_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 1252
+      width: 160
+      height: 96
+    spriteID: bf30a0f3300aedd44b6f25760d301867
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 1252}
+  - name: MEOWTAR THE BLUE_Frame_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 1356
+      width: 160
+      height: 96
+    spriteID: d97a7fedd607b10429ed2299a73eca20
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 1356}
+  - name: MEOWTAR THE BLUE_Frame_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 1460
+      width: 160
+      height: 96
+    spriteID: a55ccb5767ca5c340b38625cd8cbde06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 1460}
+  - name: MEOWTAR THE BLUE_Frame_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 1564
+      width: 160
+      height: 96
+    spriteID: 3c14a3c4260282040ad3b3781d8a60c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 1564}
+  - name: MEOWTAR THE BLUE_Frame_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 1668
+      width: 160
+      height: 96
+    spriteID: 8f072d238330b4d428ffd299a86e47a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 1668}
+  - name: MEOWTAR THE BLUE_Frame_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 1772
+      width: 160
+      height: 96
+    spriteID: edd28f9ee4b9ff540b32787b6a2b7760
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 1772}
+  - name: MEOWTAR THE BLUE_Frame_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 1876
+      width: 160
+      height: 96
+    spriteID: 6a325e47977e8a84db55bee8320a62af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 1876}
+  - name: MEOWTAR THE BLUE_Frame_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 4
+      width: 160
+      height: 96
+    spriteID: 79b94a0dc2775434ea2054f16b9c183e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 4}
+  - name: MEOWTAR THE BLUE_Frame_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 108
+      width: 160
+      height: 96
+    spriteID: f44cd76724f934445905ba385498e276
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 108}
+  - name: MEOWTAR THE BLUE_Frame_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 212
+      width: 160
+      height: 96
+    spriteID: aff4e0eb2c3396b4085da9eb04d1f5b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 212}
+  - name: MEOWTAR THE BLUE_Frame_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 316
+      width: 160
+      height: 96
+    spriteID: b19cb7c525e9dfe41b4192997cf2e196
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 316}
+  - name: MEOWTAR THE BLUE_Frame_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 420
+      width: 160
+      height: 96
+    spriteID: d6d386e3f049600458553103551266b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 420}
+  - name: MEOWTAR THE BLUE_Frame_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 524
+      width: 160
+      height: 96
+    spriteID: 87e0afff70e52cb4e8a8360640db6115
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 524}
+  - name: MEOWTAR THE BLUE_Frame_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 628
+      width: 160
+      height: 96
+    spriteID: fc04dedd85e450b4599cdf37c39cdb66
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 628}
+  - name: MEOWTAR THE BLUE_Frame_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 732
+      width: 160
+      height: 96
+    spriteID: 88706d5fa71ea64448c72a335f01caf6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 732}
+  - name: MEOWTAR THE BLUE_Frame_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 836
+      width: 160
+      height: 96
+    spriteID: 3882e70e8f649114c80402eb40ed184b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 836}
+  - name: MEOWTAR THE BLUE_Frame_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 940
+      width: 160
+      height: 96
+    spriteID: 3afc1a1ab35efd74dae0d5c9eb4a91b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 940}
+  - name: MEOWTAR THE BLUE_Frame_48
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 1044
+      width: 160
+      height: 96
+    spriteID: b6d7135c56a8e4740869796ca4d3f59b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 1044}
+  - name: MEOWTAR THE BLUE_Frame_49
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 1148
+      width: 160
+      height: 96
+    spriteID: 305caea356c3ea04a8fea6634a71f141
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 1148}
+  - name: MEOWTAR THE BLUE_Frame_50
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 1252
+      width: 160
+      height: 96
+    spriteID: 9602e20c8b0180e4e96b2f953d6b441e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 1252}
+  - name: MEOWTAR THE BLUE_Frame_51
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 1356
+      width: 160
+      height: 96
+    spriteID: 0e4a066f55e704f49b11532f17311f8c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 1356}
+  - name: MEOWTAR THE BLUE_Frame_52
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 1460
+      width: 160
+      height: 96
+    spriteID: bea6ebe615f49dd4cb8a7d30feb120d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 1460}
+  - name: MEOWTAR THE BLUE_Frame_53
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 1564
+      width: 160
+      height: 96
+    spriteID: 343f972e7482d7047b927c5bcb6b3266
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 1564}
+  - name: MEOWTAR THE BLUE_Frame_54
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 1668
+      width: 160
+      height: 96
+    spriteID: 930a8a4d374013c44999690c27f9ec0c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 1668}
+  - name: MEOWTAR THE BLUE_Frame_55
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 1772
+      width: 160
+      height: 96
+    spriteID: ab8fa7edb4907b747959ff2551eca5ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 1772}
+  - name: MEOWTAR THE BLUE_Frame_56
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 340
+      y: 1876
+      width: 160
+      height: 96
+    spriteID: 3b34d62b880661d48a06b2468db2861c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 340, y: 1876}
+  - name: MEOWTAR THE BLUE_Frame_57
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 508
+      y: 4
+      width: 160
+      height: 96
+    spriteID: c3921838862ff5f43a6d2131ed60af27
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 508, y: 4}
+  - name: MEOWTAR THE BLUE_Frame_58
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 508
+      y: 108
+      width: 160
+      height: 96
+    spriteID: 402e5b560fc5a854db165b1ed7846752
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 508, y: 108}
+  - name: MEOWTAR THE BLUE_Frame_59
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 508
+      y: 212
+      width: 160
+      height: 96
+    spriteID: 62d88d8d2e4f0314695077c4e4feef14
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 508, y: 212}
+  - name: MEOWTAR THE BLUE_Frame_60
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 508
+      y: 316
+      width: 160
+      height: 96
+    spriteID: 88810aac32efbb24189d8e2a0cbec9d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 508, y: 316}
+  - name: MEOWTAR THE BLUE_Frame_61
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 508
+      y: 420
+      width: 160
+      height: 96
+    spriteID: 6294ffd9b6bd636489e5dabc661691e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 508, y: 420}
+  - name: MEOWTAR THE BLUE_Frame_62
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 508
+      y: 524
+      width: 160
+      height: 96
+    spriteID: b2f1cd4523447b54886ca560f63381b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 508, y: 524}
+  - name: MEOWTAR THE BLUE_Frame_63
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 508
+      y: 628
+      width: 160
+      height: 96
+    spriteID: 333f173f022f4984782c2030eb83c7bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 508, y: 628}
+  - name: MEOWTAR THE BLUE_Frame_64
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 508
+      y: 732
+      width: 160
+      height: 96
+    spriteID: 7b68a986dbd743b41bdec56d5edda836
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 508, y: 732}
+  - name: MEOWTAR THE BLUE_Frame_65
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 508
+      y: 836
+      width: 160
+      height: 96
+    spriteID: 226403abb943fca49b50466c487a53a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 508, y: 836}
+  - name: MEOWTAR THE BLUE_Frame_66
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 508
+      y: 940
+      width: 160
+      height: 96
+    spriteID: b27f9df61b94b704b9def2401b853b25
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 508, y: 940}
+  - name: MEOWTAR THE BLUE_Frame_67
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 508
+      y: 1044
+      width: 160
+      height: 96
+    spriteID: c94cae1fc6e488d49968f395d5876dd0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 508, y: 1044}
+  - name: MEOWTAR THE BLUE_Frame_68
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 508
+      y: 1148
+      width: 160
+      height: 96
+    spriteID: 483388d144c44ca43b4588e43463dfdf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 508, y: 1148}
+  - name: MEOWTAR THE BLUE_Frame_69
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 508
+      y: 1252
+      width: 160
+      height: 96
+    spriteID: e44b95e72d46a2343942657f28f10ce2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 508, y: 1252}
+  - name: MEOWTAR THE BLUE_Frame_70
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 508
+      y: 1356
+      width: 160
+      height: 96
+    spriteID: 6afb7b2c0c4ffe8478f862a3fc28220a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 508, y: 1356}
+  - name: MEOWTAR THE BLUE_Frame_71
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 508
+      y: 1460
+      width: 160
+      height: 96
+    spriteID: 01465ff13ccb9364185cf4cbc67af94a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 508, y: 1460}
+  - name: MEOWTAR THE BLUE_Frame_72
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 508
+      y: 1564
+      width: 160
+      height: 96
+    spriteID: 80bc3302070b6af4d9629bf2e476cd9f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 508, y: 1564}
+  - name: MEOWTAR THE BLUE_Frame_73
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 508
+      y: 1668
+      width: 160
+      height: 96
+    spriteID: 0f8ea308959835d469745905e41061cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 508, y: 1668}
+  - name: MEOWTAR THE BLUE_Frame_74
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 508
+      y: 1772
+      width: 160
+      height: 96
+    spriteID: 49e68f652001e034a8bb9d1fad5ccc73
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 508, y: 1772}
+  - name: MEOWTAR THE BLUE_Frame_75
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 508
+      y: 1876
+      width: 160
+      height: 96
+    spriteID: 77783ec0152bd3649903b2c94cefa4a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 508, y: 1876}
+  - name: MEOWTAR THE BLUE_Frame_76
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 676
+      y: 4
+      width: 160
+      height: 96
+    spriteID: 886f03799e183954884498eeed716d8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 676, y: 4}
+  - name: MEOWTAR THE BLUE_Frame_77
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 676
+      y: 108
+      width: 160
+      height: 96
+    spriteID: 82597437b40ce9842ad058c550946782
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 676, y: 108}
+  - name: MEOWTAR THE BLUE_Frame_78
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 676
+      y: 212
+      width: 160
+      height: 96
+    spriteID: 34462a973cc67e544bc8dbe8ef0fface
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 676, y: 212}
+  - name: MEOWTAR THE BLUE_Frame_79
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 676
+      y: 316
+      width: 160
+      height: 96
+    spriteID: 807f226e57754b544b27c0e006d94899
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 676, y: 316}
+  - name: MEOWTAR THE BLUE_Frame_80
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 676
+      y: 420
+      width: 160
+      height: 96
+    spriteID: 028a29e3c53c3f544bb9fad1e2b443de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 676, y: 420}
+  - name: MEOWTAR THE BLUE_Frame_81
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 676
+      y: 524
+      width: 160
+      height: 96
+    spriteID: 3341c4d94ca3f95428d74d58af242e6a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 676, y: 524}
+  - name: MEOWTAR THE BLUE_Frame_82
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 676
+      y: 628
+      width: 160
+      height: 96
+    spriteID: 35e1663a34fa9294bbde9269c44e789d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 676, y: 628}
+  - name: MEOWTAR THE BLUE_Frame_83
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 676
+      y: 732
+      width: 160
+      height: 96
+    spriteID: 98c9fa214a1eb3d4e9a3d21ad6c8f213
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 676, y: 732}
+  - name: MEOWTAR THE BLUE_Frame_84
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 676
+      y: 836
+      width: 160
+      height: 96
+    spriteID: 90f4fc5dd6bd3e04385238af40066699
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 676, y: 836}
+  - name: MEOWTAR THE BLUE_Frame_85
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 676
+      y: 940
+      width: 160
+      height: 96
+    spriteID: 932070d1fd641824b99d0837f18fc628
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 676, y: 940}
+  - name: MEOWTAR THE BLUE_Frame_86
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 676
+      y: 1044
+      width: 160
+      height: 96
+    spriteID: 66b51180074daeb409ab6e0fd243c26c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 676, y: 1044}
+  - name: MEOWTAR THE BLUE_Frame_87
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 676
+      y: 1148
+      width: 160
+      height: 96
+    spriteID: 5e3e995515f5c984b97c3716e8c89ed3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 676, y: 1148}
+  - name: MEOWTAR THE BLUE_Frame_88
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 676
+      y: 1252
+      width: 160
+      height: 96
+    spriteID: 07619759d52796b4bbea481bf9a5f200
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 676, y: 1252}
+  - name: MEOWTAR THE BLUE_Frame_89
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 676
+      y: 1356
+      width: 160
+      height: 96
+    spriteID: ea434af2942cb6c468be34d37ade2549
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 676, y: 1356}
+  - name: MEOWTAR THE BLUE_Frame_90
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 676
+      y: 1460
+      width: 160
+      height: 96
+    spriteID: ee291104331a24547b89af507a32dd58
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 676, y: 1460}
+  - name: MEOWTAR THE BLUE_Frame_91
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 676
+      y: 1564
+      width: 160
+      height: 96
+    spriteID: a61a42ce1537f154bb89f54b8defa0e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 676, y: 1564}
+  - name: MEOWTAR THE BLUE_Frame_92
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 676
+      y: 1668
+      width: 160
+      height: 96
+    spriteID: 100f2b1156c066a4eb119bf7c7151ec1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 676, y: 1668}
+  - name: MEOWTAR THE BLUE_Frame_93
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 676
+      y: 1772
+      width: 160
+      height: 96
+    spriteID: 3fda19b927e03314ebd9fd8acde701dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 676, y: 1772}
+  - name: MEOWTAR THE BLUE_Frame_94
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 676
+      y: 1876
+      width: 160
+      height: 96
+    spriteID: 173c27480bb78414db290c7a8d1788e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 676, y: 1876}
+  - name: MEOWTAR THE BLUE_Frame_95
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 844
+      y: 4
+      width: 160
+      height: 96
+    spriteID: 76958596461ced1499a71ca7f2c24145
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 844, y: 4}
+  - name: MEOWTAR THE BLUE_Frame_96
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 844
+      y: 108
+      width: 160
+      height: 96
+    spriteID: 9f69d95481ffd8649b21edd815924849
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 844, y: 108}
+  - name: MEOWTAR THE BLUE_Frame_97
+    originalName: 
+    pivot: {x: 0.5, y: 0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 844
+      y: 212
+      width: 160
+      height: 96
+    spriteID: 77af8081543a6244ba55faaeb6cba1d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 844, y: 212}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1650789106
+    name: MEOWTAR THE BLUE
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: MEOWTAR THE BLUE_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 0fca245680551824c83dbd1882b60436
+    - name: MEOWTAR THE BLUE_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: ec3d0ad11d109d64bb2f53bf0bef151d
+    - name: MEOWTAR THE BLUE_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 46985cc8a80026940b67c1c822cbfa0c
+    - name: MEOWTAR THE BLUE_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 54204a1e46003064db17509555547969
+    - name: MEOWTAR THE BLUE_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 1fd080d94f948be48928f4b82da182a4
+    - name: MEOWTAR THE BLUE_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 7db9de0df614b904e822d1f3fd55f98d
+    - name: MEOWTAR THE BLUE_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 13eb2962179ea564eb9b0db0ec485d15
+    - name: MEOWTAR THE BLUE_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 87a6158d37a13f34caa4eb2fc162435e
+    - name: MEOWTAR THE BLUE_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 1557034ef2f2d65448a4f3c1b5b86649
+    - name: MEOWTAR THE BLUE_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 9123f7a45e6170c4ea11fe8733af2d92
+    - name: MEOWTAR THE BLUE_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 8b85efcc36513d34c81c731e20dbeb47
+    - name: MEOWTAR THE BLUE_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 4030e90400ab0d645b85edba5c40bc07
+    - name: MEOWTAR THE BLUE_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 76a1b2a5a0e425c479209fc122038a9f
+    - name: MEOWTAR THE BLUE_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 0a83035072d6d634c8adf4bf88015395
+    - name: MEOWTAR THE BLUE_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 0ea755a91fd24714ca3c634456d2bf85
+    - name: MEOWTAR THE BLUE_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 8dbb0290d8ff74c4a94ed5eb219fabe6
+    - name: MEOWTAR THE BLUE_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 1f383f147b7a03b4882c222ffd619e22
+    - name: MEOWTAR THE BLUE_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 10ed6306d4f04e94b91914a08cf0730e
+    - name: MEOWTAR THE BLUE_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 74be0fde2c7bf8140ac605a6c28ff98e
+    - name: MEOWTAR THE BLUE_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: f89ce5775c9bacc4f990efac772c65cd
+    - name: MEOWTAR THE BLUE_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 51816a8bfff6eb5449c3702ef6a66cac
+    - name: MEOWTAR THE BLUE_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 3edfafdde9cf7714fa9c5a8c82272191
+    - name: MEOWTAR THE BLUE_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 144a49f6bcbd3ce488eb3627069583d2
+    - name: MEOWTAR THE BLUE_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: f0441d7b7a534ca408b454970665dbab
+    - name: MEOWTAR THE BLUE_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: e9756851d9c78ee4cbb4e99f6030f0f6
+    - name: MEOWTAR THE BLUE_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 3408f0a5098bec84c8880dfa427070cb
+    - name: MEOWTAR THE BLUE_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 3c0cd5725b2b1d443af31595b72b057d
+    - name: MEOWTAR THE BLUE_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 70cafbdbaa91ee54784e22d849694e15
+    - name: MEOWTAR THE BLUE_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 864d15425ddf73b4b9fc863425f5df3b
+    - name: MEOWTAR THE BLUE_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 06195c014e3dbc3488d74d3dedb5a402
+    - name: MEOWTAR THE BLUE_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 7c091dd97e4c4694b8eb46dc485f495d
+    - name: MEOWTAR THE BLUE_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: bf30a0f3300aedd44b6f25760d301867
+    - name: MEOWTAR THE BLUE_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: d97a7fedd607b10429ed2299a73eca20
+    - name: MEOWTAR THE BLUE_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: a55ccb5767ca5c340b38625cd8cbde06
+    - name: MEOWTAR THE BLUE_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 3c14a3c4260282040ad3b3781d8a60c4
+    - name: MEOWTAR THE BLUE_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 8f072d238330b4d428ffd299a86e47a1
+    - name: MEOWTAR THE BLUE_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: edd28f9ee4b9ff540b32787b6a2b7760
+    - name: MEOWTAR THE BLUE_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 6a325e47977e8a84db55bee8320a62af
+    - name: MEOWTAR THE BLUE_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 79b94a0dc2775434ea2054f16b9c183e
+    - name: MEOWTAR THE BLUE_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: f44cd76724f934445905ba385498e276
+    - name: MEOWTAR THE BLUE_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: aff4e0eb2c3396b4085da9eb04d1f5b9
+    - name: MEOWTAR THE BLUE_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: b19cb7c525e9dfe41b4192997cf2e196
+    - name: MEOWTAR THE BLUE_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: d6d386e3f049600458553103551266b3
+    - name: MEOWTAR THE BLUE_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 87e0afff70e52cb4e8a8360640db6115
+    - name: MEOWTAR THE BLUE_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: fc04dedd85e450b4599cdf37c39cdb66
+    - name: MEOWTAR THE BLUE_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 88706d5fa71ea64448c72a335f01caf6
+    - name: MEOWTAR THE BLUE_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 3882e70e8f649114c80402eb40ed184b
+    - name: MEOWTAR THE BLUE_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 3afc1a1ab35efd74dae0d5c9eb4a91b7
+    - name: MEOWTAR THE BLUE_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: b6d7135c56a8e4740869796ca4d3f59b
+    - name: MEOWTAR THE BLUE_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 305caea356c3ea04a8fea6634a71f141
+    - name: MEOWTAR THE BLUE_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 9602e20c8b0180e4e96b2f953d6b441e
+    - name: MEOWTAR THE BLUE_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 0e4a066f55e704f49b11532f17311f8c
+    - name: MEOWTAR THE BLUE_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: bea6ebe615f49dd4cb8a7d30feb120d5
+    - name: MEOWTAR THE BLUE_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 343f972e7482d7047b927c5bcb6b3266
+    - name: MEOWTAR THE BLUE_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 930a8a4d374013c44999690c27f9ec0c
+    - name: MEOWTAR THE BLUE_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: ab8fa7edb4907b747959ff2551eca5ed
+    - name: MEOWTAR THE BLUE_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 3b34d62b880661d48a06b2468db2861c
+    - name: MEOWTAR THE BLUE_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: c3921838862ff5f43a6d2131ed60af27
+    - name: MEOWTAR THE BLUE_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 402e5b560fc5a854db165b1ed7846752
+    - name: MEOWTAR THE BLUE_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 62d88d8d2e4f0314695077c4e4feef14
+    - name: MEOWTAR THE BLUE_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 88810aac32efbb24189d8e2a0cbec9d4
+    - name: MEOWTAR THE BLUE_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 6294ffd9b6bd636489e5dabc661691e5
+    - name: MEOWTAR THE BLUE_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: b2f1cd4523447b54886ca560f63381b6
+    - name: MEOWTAR THE BLUE_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 333f173f022f4984782c2030eb83c7bf
+    - name: MEOWTAR THE BLUE_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 7b68a986dbd743b41bdec56d5edda836
+    - name: MEOWTAR THE BLUE_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 226403abb943fca49b50466c487a53a1
+    - name: MEOWTAR THE BLUE_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: b27f9df61b94b704b9def2401b853b25
+    - name: MEOWTAR THE BLUE_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: c94cae1fc6e488d49968f395d5876dd0
+    - name: MEOWTAR THE BLUE_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 483388d144c44ca43b4588e43463dfdf
+    - name: MEOWTAR THE BLUE_Frame_69
+      frameIndex: 69
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: e44b95e72d46a2343942657f28f10ce2
+    - name: MEOWTAR THE BLUE_Frame_70
+      frameIndex: 70
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 6afb7b2c0c4ffe8478f862a3fc28220a
+    - name: MEOWTAR THE BLUE_Frame_71
+      frameIndex: 71
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 01465ff13ccb9364185cf4cbc67af94a
+    - name: MEOWTAR THE BLUE_Frame_72
+      frameIndex: 72
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 80bc3302070b6af4d9629bf2e476cd9f
+    - name: MEOWTAR THE BLUE_Frame_73
+      frameIndex: 73
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 0f8ea308959835d469745905e41061cf
+    - name: MEOWTAR THE BLUE_Frame_74
+      frameIndex: 74
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 49e68f652001e034a8bb9d1fad5ccc73
+    - name: MEOWTAR THE BLUE_Frame_75
+      frameIndex: 75
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 77783ec0152bd3649903b2c94cefa4a2
+    - name: MEOWTAR THE BLUE_Frame_76
+      frameIndex: 76
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 886f03799e183954884498eeed716d8d
+    - name: MEOWTAR THE BLUE_Frame_77
+      frameIndex: 77
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 82597437b40ce9842ad058c550946782
+    - name: MEOWTAR THE BLUE_Frame_78
+      frameIndex: 78
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 34462a973cc67e544bc8dbe8ef0fface
+    - name: MEOWTAR THE BLUE_Frame_79
+      frameIndex: 79
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 807f226e57754b544b27c0e006d94899
+    - name: MEOWTAR THE BLUE_Frame_80
+      frameIndex: 80
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 028a29e3c53c3f544bb9fad1e2b443de
+    - name: MEOWTAR THE BLUE_Frame_81
+      frameIndex: 81
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 3341c4d94ca3f95428d74d58af242e6a
+    - name: MEOWTAR THE BLUE_Frame_82
+      frameIndex: 82
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 35e1663a34fa9294bbde9269c44e789d
+    - name: MEOWTAR THE BLUE_Frame_83
+      frameIndex: 83
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 98c9fa214a1eb3d4e9a3d21ad6c8f213
+    - name: MEOWTAR THE BLUE_Frame_84
+      frameIndex: 84
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 90f4fc5dd6bd3e04385238af40066699
+    - name: MEOWTAR THE BLUE_Frame_85
+      frameIndex: 85
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 932070d1fd641824b99d0837f18fc628
+    - name: MEOWTAR THE BLUE_Frame_86
+      frameIndex: 86
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 66b51180074daeb409ab6e0fd243c26c
+    - name: MEOWTAR THE BLUE_Frame_87
+      frameIndex: 87
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 5e3e995515f5c984b97c3716e8c89ed3
+    - name: MEOWTAR THE BLUE_Frame_88
+      frameIndex: 88
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 07619759d52796b4bbea481bf9a5f200
+    - name: MEOWTAR THE BLUE_Frame_89
+      frameIndex: 89
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: ea434af2942cb6c468be34d37ade2549
+    - name: MEOWTAR THE BLUE_Frame_90
+      frameIndex: 90
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: ee291104331a24547b89af507a32dd58
+    - name: MEOWTAR THE BLUE_Frame_91
+      frameIndex: 91
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: a61a42ce1537f154bb89f54b8defa0e9
+    - name: MEOWTAR THE BLUE_Frame_92
+      frameIndex: 92
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 100f2b1156c066a4eb119bf7c7151ec1
+    - name: MEOWTAR THE BLUE_Frame_93
+      frameIndex: 93
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 3fda19b927e03314ebd9fd8acde701dc
+    - name: MEOWTAR THE BLUE_Frame_94
+      frameIndex: 94
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 173c27480bb78414db290c7a8d1788e1
+    - name: MEOWTAR THE BLUE_Frame_95
+      frameIndex: 95
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 76958596461ced1499a71ca7f2c24145
+    - name: MEOWTAR THE BLUE_Frame_96
+      frameIndex: 96
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 9f69d95481ffd8649b21edd815924849
+    - name: MEOWTAR THE BLUE_Frame_97
+      frameIndex: 97
+      cellRect:
+        x: 0
+        y: -16
+        width: 160
+        height: 96
+      spriteId: 77af8081543a6244ba55faaeb6cba1d8
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 160, y: 80}

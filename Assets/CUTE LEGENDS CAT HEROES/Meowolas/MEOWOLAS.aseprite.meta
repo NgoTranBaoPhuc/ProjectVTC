@@ -1,0 +1,2376 @@
+fileFormatVersion: 2
+guid: 2be788a570daa7c4f9d819c6cca4087b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: MEOWOLAS_Frame_0
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 949
+      width: 111
+      height: 126
+    spriteID: c5033caaf3b1e0f4a82c439dfba2bea7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 949}
+  - name: MEOWOLAS_Frame_39
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 1078
+      width: 80
+      height: 80
+    spriteID: dbced0a45e04da34ebcc795d23323479
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 1078}
+  - name: MEOWOLAS_Frame_1
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 1083
+      width: 111
+      height: 126
+    spriteID: a652e7f35de4d944c8a3219cc2361d9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 1083}
+  - name: MEOWOLAS_Frame_2
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 1217
+      width: 111
+      height: 126
+    spriteID: 28f2d8146aea54c42b79ac99e70fd7ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 1217}
+  - name: MEOWOLAS_Frame_3
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 1351
+      width: 111
+      height: 126
+    spriteID: ea794edef99cb4442a86b9b5a6d89a45
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 1351}
+  - name: MEOWOLAS_Frame_4
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 1485
+      width: 111
+      height: 126
+    spriteID: eb3552d53206ca84e9cf9c7f68cfd98c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 1485}
+  - name: MEOWOLAS_Frame_5
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 1619
+      width: 111
+      height: 126
+    spriteID: bb95504eb294fa64ebe9482333e2bfc7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 1619}
+  - name: MEOWOLAS_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 1166
+      width: 80
+      height: 80
+    spriteID: 124f9dbb7600be44089ecf6e4638d57e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 1166}
+  - name: MEOWOLAS_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 1254
+      width: 80
+      height: 80
+    spriteID: 2e73674c68cfc174bb5fa327c87cd052
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 1254}
+  - name: MEOWOLAS_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 1342
+      width: 80
+      height: 80
+    spriteID: cc39ae85821d476498f58d31fa2dfb8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 1342}
+  - name: MEOWOLAS_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 1430
+      width: 80
+      height: 80
+    spriteID: 74a9511fbbd6a51428efc7e35007670d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 1430}
+  - name: MEOWOLAS_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 1518
+      width: 80
+      height: 80
+    spriteID: 6c2df7cfcc6022f4a9c98ebe3dc6b071
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 1518}
+  - name: MEOWOLAS_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 1606
+      width: 80
+      height: 80
+    spriteID: 37d2101317cef0e4384bff023493aba7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 1606}
+  - name: MEOWOLAS_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 1694
+      width: 80
+      height: 80
+    spriteID: 564ec09f499b6a14b88f47fbc85e8077
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 1694}
+  - name: MEOWOLAS_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 1782
+      width: 80
+      height: 80
+    spriteID: a5d812aa654d1524fa09a0b3a1fcec71
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 1782}
+  - name: MEOWOLAS_Frame_14
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 1753
+      width: 111
+      height: 126
+    spriteID: f89e01170c1c6c04091aa3045b521494
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 1753}
+  - name: MEOWOLAS_Frame_15
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 1887
+      width: 111
+      height: 126
+    spriteID: 9381f9416a501914d8930751919099a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 1887}
+  - name: MEOWOLAS_Frame_16
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.3700787}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 272
+      width: 111
+      height: 127
+    spriteID: bdf2537c3e88f354f937e7a3856599dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 272}
+  - name: MEOWOLAS_Frame_17
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.3700787}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 407
+      width: 111
+      height: 127
+    spriteID: f71f78316fc15d548a7a8c5569de30e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 407}
+  - name: MEOWOLAS_Frame_18
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.3700787}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 542
+      width: 111
+      height: 127
+    spriteID: 9a9c95d5b04add440b30462bcf78d5b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 542}
+  - name: MEOWOLAS_Frame_19
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.3700787}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 677
+      width: 111
+      height: 127
+    spriteID: 1d6b084083b539b498f60bf9908ea373
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 677}
+  - name: MEOWOLAS_Frame_20
+    originalName: 
+    pivot: {x: 0.36363637, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 1880
+      width: 110
+      height: 126
+    spriteID: e4e673bd97c4ad34082b2ba2712e7449
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 1880}
+  - name: MEOWOLAS_Frame_21
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 4
+      width: 111
+      height: 126
+    spriteID: e3732f93ca7fea54595dcb1d8341264e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 4}
+  - name: MEOWOLAS_Frame_22
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 138
+      width: 111
+      height: 126
+    spriteID: 0a21753ae6f44f144bc664d3615909bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 138}
+  - name: MEOWOLAS_Frame_23
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.3700787}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 812
+      width: 111
+      height: 127
+    spriteID: 464c1bb0ddec08e4eb04ece3c26462ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 812}
+  - name: MEOWOLAS_Frame_24
+    originalName: 
+    pivot: {x: 0.35714287, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 112
+      height: 126
+    spriteID: 1c56eb289b161074cb350118d817135c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: MEOWOLAS_Frame_25
+    originalName: 
+    pivot: {x: 0.35714287, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 138
+      width: 112
+      height: 126
+    spriteID: 83b8f2a0786aa3e45841fd01246577dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 138}
+  - name: MEOWOLAS_Frame_26
+    originalName: 
+    pivot: {x: 0.36363637, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 4
+      width: 110
+      height: 126
+    spriteID: b5a68ffa6a65f4f43ab54c7c8955e95d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 4}
+  - name: MEOWOLAS_Frame_27
+    originalName: 
+    pivot: {x: 0.36363637, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 138
+      width: 110
+      height: 126
+    spriteID: 5c2a172ff44ed88438341f05924b85ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 138}
+  - name: MEOWOLAS_Frame_28
+    originalName: 
+    pivot: {x: 0.36363637, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 272
+      width: 110
+      height: 126
+    spriteID: 1fa9e7b81b9138b4f9af12adec560c1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 272}
+  - name: MEOWOLAS_Frame_29
+    originalName: 
+    pivot: {x: 0.36363637, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 406
+      width: 110
+      height: 126
+    spriteID: f0a4ed8d697b6c843af027113db9b566
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 406}
+  - name: MEOWOLAS_Frame_30
+    originalName: 
+    pivot: {x: 0.36363637, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 540
+      width: 110
+      height: 126
+    spriteID: bcd815c0b0b246b4dab69cb94ab5cbc6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 540}
+  - name: MEOWOLAS_Frame_31
+    originalName: 
+    pivot: {x: 0.36363637, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 674
+      width: 110
+      height: 126
+    spriteID: d686a28ef6fa65d4e9c1ffba43d4b800
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 674}
+  - name: MEOWOLAS_Frame_32
+    originalName: 
+    pivot: {x: 0.36363637, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 808
+      width: 110
+      height: 126
+    spriteID: 9765e07ed82dfd24ebad6e0d3403b157
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 808}
+  - name: MEOWOLAS_Frame_33
+    originalName: 
+    pivot: {x: 0.36363637, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 942
+      width: 110
+      height: 126
+    spriteID: c4a9b7231b9096549b0efbd4a5010305
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 942}
+  - name: MEOWOLAS_Frame_34
+    originalName: 
+    pivot: {x: 0.36363637, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 1076
+      width: 110
+      height: 126
+    spriteID: a3d0cd5e562d7e6489e854161e679109
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 1076}
+  - name: MEOWOLAS_Frame_35
+    originalName: 
+    pivot: {x: 0.36363637, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 1210
+      width: 110
+      height: 126
+    spriteID: c484950a09319dd4cbcea4a9db2da1c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 1210}
+  - name: MEOWOLAS_Frame_36
+    originalName: 
+    pivot: {x: 0.36363637, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 1344
+      width: 110
+      height: 126
+    spriteID: a910771e61a2a3243a2eff842df2c305
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 1344}
+  - name: MEOWOLAS_Frame_37
+    originalName: 
+    pivot: {x: 0.36363637, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 1478
+      width: 110
+      height: 126
+    spriteID: 745a483784c2b574f8abca67b31e43a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 1478}
+  - name: MEOWOLAS_Frame_38
+    originalName: 
+    pivot: {x: 0.36363637, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 1612
+      width: 110
+      height: 126
+    spriteID: 3f3ca366b79c9f44ca73f6fb7e4d2246
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 1612}
+  - name: MEOWOLAS_Frame_40
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 1870
+      width: 80
+      height: 80
+    spriteID: 3d5fa59e302584849aaf6ef9e5de4b16
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 1870}
+  - name: MEOWOLAS_Frame_41
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 1958
+      width: 80
+      height: 80
+    spriteID: 6990fa4d150fc544aac7c4a5d781ce32
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 1958}
+  - name: MEOWOLAS_Frame_42
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 597
+      y: 4
+      width: 80
+      height: 80
+    spriteID: 1247407cdee6686418d702e1a71a06b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 597, y: 4}
+  - name: MEOWOLAS_Frame_43
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 272
+      width: 111
+      height: 126
+    spriteID: 90051a03f7c81e64b8a8d487e9c5c610
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 272}
+  - name: MEOWOLAS_Frame_44
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.3700787}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 947
+      width: 111
+      height: 127
+    spriteID: 02a5d51669e07164d8c75cef4d181c8c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 947}
+  - name: MEOWOLAS_Frame_45
+    originalName: 
+    pivot: {x: 0.3809524, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 271
+      width: 105
+      height: 126
+    spriteID: a6da78218d78bac4387d04bc54f9b6af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 271}
+  - name: MEOWOLAS_Frame_46
+    originalName: 
+    pivot: {x: 0.3846154, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 405
+      width: 104
+      height: 126
+    spriteID: 1077c887d16c953468e77373f6614e1e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 405}
+  - name: MEOWOLAS_Frame_47
+    originalName: 
+    pivot: {x: 0.3846154, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 539
+      width: 104
+      height: 126
+    spriteID: 9261c5998b9c69846b1a942ef0baf3e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 539}
+  - name: MEOWOLAS_Frame_48
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.3700787}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1082
+      width: 111
+      height: 127
+    spriteID: 9d6298c9bf9927d40895cd6d5a094046
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1082}
+  - name: MEOWOLAS_Frame_49
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.3700787}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1217
+      width: 111
+      height: 127
+    spriteID: fd356eab24a61b943a679eb6634fb158
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1217}
+  - name: MEOWOLAS_Frame_50
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 406
+      width: 111
+      height: 126
+    spriteID: 100f747ef24a26c4ab691bbe9d636110
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 406}
+  - name: MEOWOLAS_Frame_51
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.3700787}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1352
+      width: 111
+      height: 127
+    spriteID: c655886701fa3304abd524082a958c51
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1352}
+  - name: MEOWOLAS_Frame_52
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.3700787}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1487
+      width: 111
+      height: 127
+    spriteID: 4cc021f9ed49ed14bb778e369aeb2d0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1487}
+  - name: MEOWOLAS_Frame_53
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.3700787}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1622
+      width: 111
+      height: 127
+    spriteID: a024b272349ef174e83870ca3c248956
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1622}
+  - name: MEOWOLAS_Frame_54
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.3700787}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1757
+      width: 111
+      height: 127
+    spriteID: 6d8d88b18c52d7b4ea9bc18071e5ab56
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1757}
+  - name: MEOWOLAS_Frame_55
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.3700787}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1892
+      width: 111
+      height: 127
+    spriteID: a998325597964b54981b81019dc52bd7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1892}
+  - name: MEOWOLAS_Frame_56
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.3700787}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 4
+      width: 111
+      height: 127
+    spriteID: c5cf4bc3fcfc8a941a390cdc449dc4a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 4}
+  - name: MEOWOLAS_Frame_57
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.3700787}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 139
+      width: 111
+      height: 127
+    spriteID: 1b3b7565009e6e743b8bb898ecfea023
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 139}
+  - name: MEOWOLAS_Frame_58
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.3700787}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 274
+      width: 111
+      height: 127
+    spriteID: fa5760a5829009f468f1aef97a3b986e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 274}
+  - name: MEOWOLAS_Frame_59
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.3700787}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 409
+      width: 111
+      height: 127
+    spriteID: cf290af73e8520d49b05141c73dba9d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 409}
+  - name: MEOWOLAS_Frame_60
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.3700787}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 544
+      width: 111
+      height: 127
+    spriteID: 6a93dbd2cefbbee48b584e0f0c45ead6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 544}
+  - name: MEOWOLAS_Frame_61
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.3700787}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 679
+      width: 111
+      height: 127
+    spriteID: 00e1f2852e86ba34492a2a63980136ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 679}
+  - name: MEOWOLAS_Frame_62
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 540
+      width: 111
+      height: 126
+    spriteID: 9bf99ddab4e074c4eaf0e6ef3a3efe23
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 540}
+  - name: MEOWOLAS_Frame_63
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.3700787}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 814
+      width: 111
+      height: 127
+    spriteID: 8f00bf32d6c0fff4db13b63dde902f53
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 814}
+  - name: MEOWOLAS_Frame_64
+    originalName: 
+    pivot: {x: 0.37037036, y: 0.35999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 138
+      width: 108
+      height: 125
+    spriteID: 6899668b087741c4f9aa598c167eb59d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 138}
+  - name: MEOWOLAS_Frame_65
+    originalName: 
+    pivot: {x: 0.41237113, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 810
+      width: 97
+      height: 126
+    spriteID: 4796a3fb0c202a94abd0b3e9238c5725
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 810}
+  - name: MEOWOLAS_Frame_66
+    originalName: 
+    pivot: {x: 0.4, y: 0.37984496}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 673
+      width: 100
+      height: 129
+    spriteID: 4c318f60b42a18a48b1599d1d583cfe4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 673}
+  - name: MEOWOLAS_Frame_67
+    originalName: 
+    pivot: {x: 0.44444445, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 944
+      width: 90
+      height: 126
+    spriteID: 780305eda218b57489440a0c44267600
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 944}
+  - name: MEOWOLAS_Frame_68
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 674
+      width: 111
+      height: 126
+    spriteID: 5795463990f809e43b4e5ebef7f6f8ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 674}
+  - name: MEOWOLAS_Frame_69
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 808
+      width: 111
+      height: 126
+    spriteID: ddc8823494902de4ea45b93567abbc41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 808}
+  - name: MEOWOLAS_Frame_70
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 942
+      width: 111
+      height: 126
+    spriteID: d167ab7b0dbcf4d469402f40387cceb1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 942}
+  - name: MEOWOLAS_Frame_71
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 1076
+      width: 111
+      height: 126
+    spriteID: 0891bd37fed241146b49b8546b863e8a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 1076}
+  - name: MEOWOLAS_Frame_72
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 1210
+      width: 111
+      height: 126
+    spriteID: 71ddc09e2d123cd4bb987fd9543bd9ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 1210}
+  - name: MEOWOLAS_Frame_73
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 1344
+      width: 111
+      height: 126
+    spriteID: f8da5f745b8377845ae044bc6e7792fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 1344}
+  - name: MEOWOLAS_Frame_74
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 1478
+      width: 111
+      height: 126
+    spriteID: a190445535b4dc24da23e1ee54b46821
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 1478}
+  - name: MEOWOLAS_Frame_75
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 1612
+      width: 111
+      height: 126
+    spriteID: 94c0b380f22e3c14881eb51d62aa5ba9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 1612}
+  - name: MEOWOLAS_Frame_76
+    originalName: 
+    pivot: {x: 0.36036035, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 243
+      y: 1746
+      width: 111
+      height: 126
+    spriteID: 473c2b6ce71c3e343b2d104895854afe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 243, y: 1746}
+  - name: MEOWOLAS_Frame_77
+    originalName: 
+    pivot: {x: 0.36697248, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 1746
+      width: 109
+      height: 126
+    spriteID: 635768a72aeb6054782591b1ab31faa8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 1746}
+  - name: MEOWOLAS_Frame_78
+    originalName: 
+    pivot: {x: 0.36697248, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 1880
+      width: 109
+      height: 126
+    spriteID: 6dc11b402e8ef81429783e4594d88f11
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 1880}
+  - name: MEOWOLAS_Frame_79
+    originalName: 
+    pivot: {x: 0.36697248, y: 0.36507937}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 4
+      width: 109
+      height: 126
+    spriteID: 3a8d4c979af56dd43ac3a72d3368ce24
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 480, y: 4}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -2086694435
+    name: MEOWOLAS
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: MEOWOLAS_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 0
+        y: -46
+        width: 111
+        height: 126
+      spriteId: c5033caaf3b1e0f4a82c439dfba2bea7
+    - name: MEOWOLAS_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: dbced0a45e04da34ebcc795d23323479
+    - name: MEOWOLAS_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 0
+        y: -46
+        width: 111
+        height: 126
+      spriteId: a652e7f35de4d944c8a3219cc2361d9c
+    - name: MEOWOLAS_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 0
+        y: -46
+        width: 111
+        height: 126
+      spriteId: 28f2d8146aea54c42b79ac99e70fd7ee
+    - name: MEOWOLAS_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 0
+        y: -46
+        width: 111
+        height: 126
+      spriteId: ea794edef99cb4442a86b9b5a6d89a45
+    - name: MEOWOLAS_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 0
+        y: -46
+        width: 111
+        height: 126
+      spriteId: eb3552d53206ca84e9cf9c7f68cfd98c
+    - name: MEOWOLAS_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 0
+        y: -46
+        width: 111
+        height: 126
+      spriteId: bb95504eb294fa64ebe9482333e2bfc7
+    - name: MEOWOLAS_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 124f9dbb7600be44089ecf6e4638d57e
+    - name: MEOWOLAS_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 2e73674c68cfc174bb5fa327c87cd052
+    - name: MEOWOLAS_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: cc39ae85821d476498f58d31fa2dfb8e
+    - name: MEOWOLAS_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 74a9511fbbd6a51428efc7e35007670d
+    - name: MEOWOLAS_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6c2df7cfcc6022f4a9c98ebe3dc6b071
+    - name: MEOWOLAS_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 37d2101317cef0e4384bff023493aba7
+    - name: MEOWOLAS_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 564ec09f499b6a14b88f47fbc85e8077
+    - name: MEOWOLAS_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: a5d812aa654d1524fa09a0b3a1fcec71
+    - name: MEOWOLAS_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 0
+        y: -46
+        width: 111
+        height: 126
+      spriteId: f89e01170c1c6c04091aa3045b521494
+    - name: MEOWOLAS_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 0
+        y: -46
+        width: 111
+        height: 126
+      spriteId: 9381f9416a501914d8930751919099a4
+    - name: MEOWOLAS_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 0
+        y: -47
+        width: 111
+        height: 127
+      spriteId: bdf2537c3e88f354f937e7a3856599dd
+    - name: MEOWOLAS_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 0
+        y: -47
+        width: 111
+        height: 127
+      spriteId: f71f78316fc15d548a7a8c5569de30e1
+    - name: MEOWOLAS_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 0
+        y: -47
+        width: 111
+        height: 127
+      spriteId: 9a9c95d5b04add440b30462bcf78d5b8
+    - name: MEOWOLAS_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 0
+        y: -47
+        width: 111
+        height: 127
+      spriteId: 1d6b084083b539b498f60bf9908ea373
+    - name: MEOWOLAS_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 0
+        y: -46
+        width: 110
+        height: 126
+      spriteId: e4e673bd97c4ad34082b2ba2712e7449
+    - name: MEOWOLAS_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 0
+        y: -46
+        width: 111
+        height: 126
+      spriteId: e3732f93ca7fea54595dcb1d8341264e
+    - name: MEOWOLAS_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 0
+        y: -46
+        width: 111
+        height: 126
+      spriteId: 0a21753ae6f44f144bc664d3615909bf
+    - name: MEOWOLAS_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 0
+        y: -47
+        width: 111
+        height: 127
+      spriteId: 464c1bb0ddec08e4eb04ece3c26462ef
+    - name: MEOWOLAS_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 0
+        y: -46
+        width: 112
+        height: 126
+      spriteId: 1c56eb289b161074cb350118d817135c
+    - name: MEOWOLAS_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 0
+        y: -46
+        width: 112
+        height: 126
+      spriteId: 83b8f2a0786aa3e45841fd01246577dd
+    - name: MEOWOLAS_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 0
+        y: -46
+        width: 110
+        height: 126
+      spriteId: b5a68ffa6a65f4f43ab54c7c8955e95d
+    - name: MEOWOLAS_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 0
+        y: -46
+        width: 110
+        height: 126
+      spriteId: 5c2a172ff44ed88438341f05924b85ac
+    - name: MEOWOLAS_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 0
+        y: -46
+        width: 110
+        height: 126
+      spriteId: 1fa9e7b81b9138b4f9af12adec560c1b
+    - name: MEOWOLAS_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 0
+        y: -46
+        width: 110
+        height: 126
+      spriteId: f0a4ed8d697b6c843af027113db9b566
+    - name: MEOWOLAS_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 0
+        y: -46
+        width: 110
+        height: 126
+      spriteId: bcd815c0b0b246b4dab69cb94ab5cbc6
+    - name: MEOWOLAS_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 0
+        y: -46
+        width: 110
+        height: 126
+      spriteId: d686a28ef6fa65d4e9c1ffba43d4b800
+    - name: MEOWOLAS_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 0
+        y: -46
+        width: 110
+        height: 126
+      spriteId: 9765e07ed82dfd24ebad6e0d3403b157
+    - name: MEOWOLAS_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 0
+        y: -46
+        width: 110
+        height: 126
+      spriteId: c4a9b7231b9096549b0efbd4a5010305
+    - name: MEOWOLAS_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 0
+        y: -46
+        width: 110
+        height: 126
+      spriteId: a3d0cd5e562d7e6489e854161e679109
+    - name: MEOWOLAS_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 0
+        y: -46
+        width: 110
+        height: 126
+      spriteId: c484950a09319dd4cbcea4a9db2da1c0
+    - name: MEOWOLAS_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 0
+        y: -46
+        width: 110
+        height: 126
+      spriteId: a910771e61a2a3243a2eff842df2c305
+    - name: MEOWOLAS_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 0
+        y: -46
+        width: 110
+        height: 126
+      spriteId: 745a483784c2b574f8abca67b31e43a8
+    - name: MEOWOLAS_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 0
+        y: -46
+        width: 110
+        height: 126
+      spriteId: 3f3ca366b79c9f44ca73f6fb7e4d2246
+    - name: MEOWOLAS_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 3d5fa59e302584849aaf6ef9e5de4b16
+    - name: MEOWOLAS_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 6990fa4d150fc544aac7c4a5d781ce32
+    - name: MEOWOLAS_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      spriteId: 1247407cdee6686418d702e1a71a06b4
+    - name: MEOWOLAS_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 0
+        y: -46
+        width: 111
+        height: 126
+      spriteId: 90051a03f7c81e64b8a8d487e9c5c610
+    - name: MEOWOLAS_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 0
+        y: -47
+        width: 111
+        height: 127
+      spriteId: 02a5d51669e07164d8c75cef4d181c8c
+    - name: MEOWOLAS_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 0
+        y: -46
+        width: 105
+        height: 126
+      spriteId: a6da78218d78bac4387d04bc54f9b6af
+    - name: MEOWOLAS_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 0
+        y: -46
+        width: 104
+        height: 126
+      spriteId: 1077c887d16c953468e77373f6614e1e
+    - name: MEOWOLAS_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 0
+        y: -46
+        width: 104
+        height: 126
+      spriteId: 9261c5998b9c69846b1a942ef0baf3e4
+    - name: MEOWOLAS_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 0
+        y: -47
+        width: 111
+        height: 127
+      spriteId: 9d6298c9bf9927d40895cd6d5a094046
+    - name: MEOWOLAS_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 0
+        y: -47
+        width: 111
+        height: 127
+      spriteId: fd356eab24a61b943a679eb6634fb158
+    - name: MEOWOLAS_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 0
+        y: -46
+        width: 111
+        height: 126
+      spriteId: 100f747ef24a26c4ab691bbe9d636110
+    - name: MEOWOLAS_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 0
+        y: -47
+        width: 111
+        height: 127
+      spriteId: c655886701fa3304abd524082a958c51
+    - name: MEOWOLAS_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 0
+        y: -47
+        width: 111
+        height: 127
+      spriteId: 4cc021f9ed49ed14bb778e369aeb2d0b
+    - name: MEOWOLAS_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 0
+        y: -47
+        width: 111
+        height: 127
+      spriteId: a024b272349ef174e83870ca3c248956
+    - name: MEOWOLAS_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 0
+        y: -47
+        width: 111
+        height: 127
+      spriteId: 6d8d88b18c52d7b4ea9bc18071e5ab56
+    - name: MEOWOLAS_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 0
+        y: -47
+        width: 111
+        height: 127
+      spriteId: a998325597964b54981b81019dc52bd7
+    - name: MEOWOLAS_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 0
+        y: -47
+        width: 111
+        height: 127
+      spriteId: c5cf4bc3fcfc8a941a390cdc449dc4a7
+    - name: MEOWOLAS_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 0
+        y: -47
+        width: 111
+        height: 127
+      spriteId: 1b3b7565009e6e743b8bb898ecfea023
+    - name: MEOWOLAS_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 0
+        y: -47
+        width: 111
+        height: 127
+      spriteId: fa5760a5829009f468f1aef97a3b986e
+    - name: MEOWOLAS_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 0
+        y: -47
+        width: 111
+        height: 127
+      spriteId: cf290af73e8520d49b05141c73dba9d1
+    - name: MEOWOLAS_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 0
+        y: -47
+        width: 111
+        height: 127
+      spriteId: 6a93dbd2cefbbee48b584e0f0c45ead6
+    - name: MEOWOLAS_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 0
+        y: -47
+        width: 111
+        height: 127
+      spriteId: 00e1f2852e86ba34492a2a63980136ca
+    - name: MEOWOLAS_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 0
+        y: -46
+        width: 111
+        height: 126
+      spriteId: 9bf99ddab4e074c4eaf0e6ef3a3efe23
+    - name: MEOWOLAS_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 0
+        y: -47
+        width: 111
+        height: 127
+      spriteId: 8f00bf32d6c0fff4db13b63dde902f53
+    - name: MEOWOLAS_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 0
+        y: -45
+        width: 108
+        height: 125
+      spriteId: 6899668b087741c4f9aa598c167eb59d
+    - name: MEOWOLAS_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 0
+        y: -46
+        width: 97
+        height: 126
+      spriteId: 4796a3fb0c202a94abd0b3e9238c5725
+    - name: MEOWOLAS_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 0
+        y: -49
+        width: 100
+        height: 129
+      spriteId: 4c318f60b42a18a48b1599d1d583cfe4
+    - name: MEOWOLAS_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: 0
+        y: -46
+        width: 90
+        height: 126
+      spriteId: 780305eda218b57489440a0c44267600
+    - name: MEOWOLAS_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: 0
+        y: -46
+        width: 111
+        height: 126
+      spriteId: 5795463990f809e43b4e5ebef7f6f8ba
+    - name: MEOWOLAS_Frame_69
+      frameIndex: 69
+      cellRect:
+        x: 0
+        y: -46
+        width: 111
+        height: 126
+      spriteId: ddc8823494902de4ea45b93567abbc41
+    - name: MEOWOLAS_Frame_70
+      frameIndex: 70
+      cellRect:
+        x: 0
+        y: -46
+        width: 111
+        height: 126
+      spriteId: d167ab7b0dbcf4d469402f40387cceb1
+    - name: MEOWOLAS_Frame_71
+      frameIndex: 71
+      cellRect:
+        x: 0
+        y: -46
+        width: 111
+        height: 126
+      spriteId: 0891bd37fed241146b49b8546b863e8a
+    - name: MEOWOLAS_Frame_72
+      frameIndex: 72
+      cellRect:
+        x: 0
+        y: -46
+        width: 111
+        height: 126
+      spriteId: 71ddc09e2d123cd4bb987fd9543bd9ff
+    - name: MEOWOLAS_Frame_73
+      frameIndex: 73
+      cellRect:
+        x: 0
+        y: -46
+        width: 111
+        height: 126
+      spriteId: f8da5f745b8377845ae044bc6e7792fc
+    - name: MEOWOLAS_Frame_74
+      frameIndex: 74
+      cellRect:
+        x: 0
+        y: -46
+        width: 111
+        height: 126
+      spriteId: a190445535b4dc24da23e1ee54b46821
+    - name: MEOWOLAS_Frame_75
+      frameIndex: 75
+      cellRect:
+        x: 0
+        y: -46
+        width: 111
+        height: 126
+      spriteId: 94c0b380f22e3c14881eb51d62aa5ba9
+    - name: MEOWOLAS_Frame_76
+      frameIndex: 76
+      cellRect:
+        x: 0
+        y: -46
+        width: 111
+        height: 126
+      spriteId: 473c2b6ce71c3e343b2d104895854afe
+    - name: MEOWOLAS_Frame_77
+      frameIndex: 77
+      cellRect:
+        x: 0
+        y: -46
+        width: 109
+        height: 126
+      spriteId: 635768a72aeb6054782591b1ab31faa8
+    - name: MEOWOLAS_Frame_78
+      frameIndex: 78
+      cellRect:
+        x: 0
+        y: -46
+        width: 109
+        height: 126
+      spriteId: 6dc11b402e8ef81429783e4594d88f11
+    - name: MEOWOLAS_Frame_79
+      frameIndex: 79
+      cellRect:
+        x: 0
+        y: -46
+        width: 109
+        height: 126
+      spriteId: 3a8d4c979af56dd43ac3a72d3368ce24
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 80}
